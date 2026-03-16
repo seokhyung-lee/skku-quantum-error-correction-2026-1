@@ -8,9 +8,9 @@ Lab materials (Jupyter notebooks) for the graduate course **EQE5006 Quantum Erro
 
 ## Labs
 
-| # | Topic | Notebook |
-|---|-------|----------|
-| 1 | Stim basics and quantum circuit simulation | [lab1-stim-basics.ipynb](labs/lab1-stim-basics.ipynb) |
+| # | Date | Topic | Notebook |
+|---|------|-------|----------|
+| 1 | 2026/03/17 | Stim basics and quantum circuit simulation | [lab1-stim-basics.ipynb](labs/lab1-stim-basics.ipynb) |
 
 ## Requirements
 

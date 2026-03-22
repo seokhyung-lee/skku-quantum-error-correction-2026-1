@@ -11,6 +11,7 @@ Lab materials (Jupyter notebooks) for the graduate course **EQE5006 Quantum Erro
 | # | Date | Topic | Notebook |
 |---|------|-------|----------|
 | 1 | 2026/03/17 | Stim basics and quantum circuit simulation | [lab1-stim-basics.ipynb](labs/lab1-stim-basics.ipynb) |
+| 2 | 2026/03/24 | Pauli group and Clifford group in stim | [lab2-pauli-clifford-in-stim.ipynb](labs/lab2-pauli-clifford-in-stim.ipynb) |
 
 ## Requirements
 

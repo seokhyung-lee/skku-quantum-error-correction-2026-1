@@ -13,14 +13,15 @@ Lab materials (Jupyter notebooks) for the graduate course **EQE5006 Quantum Erro
 | 1 | 2026/03/17 | Stim basics and quantum circuit simulation | [lab1-stim-basics.ipynb](labs/lab1-stim-basics.ipynb) |
 | 2 | 2026/03/24 | Pauli group and Clifford group in stim | [lab2-pauli-clifford-in-stim.ipynb](labs/lab2-pauli-clifford-in-stim.ipynb) |
 | 3 | 2026/03/31 | Introduction to quantum error correction in stim | [lab3-intro-to-qec.ipynb](labs/lab3-intro-to-qec.ipynb) |
+| 7 | 2026/05/07 | QEC circuit simulation in stim | [lab7-qec-circuit-simulation.ipynb](labs/lab7-qec-circuit-simulation.ipynb) |
 
 ## Requirements
 
 - Python 3.10+
-- `stim`, `numpy`, `matplotlib`
+- `stim`, `numpy`, `matplotlib`, `pymatching`
 
 ```bash
-pip install stim numpy matplotlib
+pip install stim numpy matplotlib pymatching
 ```
 
 ## License

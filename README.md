@@ -14,6 +14,7 @@ Lab materials (Jupyter notebooks) for the graduate course **EQE5006 Quantum Erro
 | 2 | 2026/03/24 | Pauli group and Clifford group in stim | [lab2-pauli-clifford-in-stim.ipynb](labs/lab2-pauli-clifford-in-stim.ipynb) |
 | 3 | 2026/03/31 | Introduction to quantum error correction in stim | [lab3-intro-to-qec.ipynb](labs/lab3-intro-to-qec.ipynb) |
 | 7 | 2026/05/07 | QEC circuit simulation in stim | [lab7-qec-circuit-simulation.ipynb](labs/lab7-qec-circuit-simulation.ipynb) |
+| 8 | 2026/05/19 | Circuit-level noise and repetitive syndrome extraction | [lab8-circuit-level-noise.ipynb](labs/lab8-circuit-level-noise.ipynb) |
 
 ## Requirements
 
